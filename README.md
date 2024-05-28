@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **anamay.narkar.102@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1vqg8SWvUW-xYnR6bbSKPRtYCfEXFrkfi/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1NckOnbpXNU2AqGvrN4kqSUdNl1wWIrrg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
