@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="./output.gif" style="max-width: 100%; height: auto;" />
+  <img src="./newGif.gif" style="max-width: 100%; height: auto;" />
 </div>
 
 ## 📬 Contact Me
@@ -21,12 +21,12 @@
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<!--   <img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> -->
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Goose-000?style=for-the-badge&logo=goose&logoColor=white" alt="Goose" />
+<!--   <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> -->
+  <img src="https://img.shields.io/badge/-Flyway-000?style=for-the-badge&logo=goose&logoColor=white" alt="Flyway" />
   <img src="https://img.shields.io/badge/-SQLC-000?style=for-the-badge&logo=sqlc&logoColor=white" alt="SQLC" />
 </div>
 
