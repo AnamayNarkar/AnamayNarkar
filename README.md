@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img src="./latestGif.gif" style="max-width: 100%; height: auto;" />
+  <img src="./latestGif2.gif" style="max-width: 100%; height: auto;" />
 </div>
 
 ## 📬 Contact Me
